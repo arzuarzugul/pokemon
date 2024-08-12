@@ -25,7 +25,7 @@ h1{
 
 
 }
-.searchınput{
+.searchinput{
     font-family: inherit;
     background-color: white;
     border: none;
@@ -38,7 +38,7 @@ h1{
 
 
 }
-.searchbtn, .searchınput:focus{
+.searchbtn, .searchinput:focus{
     outline: none;
 }
 .searchbtn{
@@ -54,7 +54,7 @@ h1{
     cursor: pointer;
 
 }
-.search.active .searchınput{
+.search.active .searchinput{
     width: 200px;
     width: 200px;
     background-color: white;
